@@ -1,0 +1,114 @@
+{
+  "$__": {
+    "activePaths": {
+      "paths": {
+        "projectName": "require"
+      },
+      "states": {
+        "require": {
+          "projectName": true
+        },
+        "default": {},
+        "modify": {}
+      }
+    },
+    "op": null,
+    "saving": null,
+    "saveOptions": null,
+    "validating": null,
+    "cachedRequired": {},
+    "backup": {
+      "activePaths": {
+        "modify": {
+          "projectName": true,
+          "theme": true,
+          "updatedAt": true
+        },
+        "default": {
+          "template.name": true,
+          "template.version": true,
+          "template.layoutMode": true,
+          "theme.primaryColor": true,
+          "theme.secondaryColor": true,
+          "theme.fontFamily": true,
+          "theme.darkMode": true,
+          "theme.pageBackground": true,
+          "theme.tokens": true,
+          "theme.customTokens": true,
+          "responsive.breakpoints.mobile": true,
+          "responsive.breakpoints.tablet": true,
+          "responsive.breakpoints.desktop": true,
+          "_id": true,
+          "responsive.pages": true,
+          "pages": true,
+          "createdAt": true
+        }
+      },
+      "validationError": null
+    },
+    "inserting": true,
+    "savedState": {},
+    "$versionError": null,
+    "getters": {
+      "theme": {
+        "primaryColor": "#0070f3",
+        "secondaryColor": "#7928ca",
+        "darkMode": false,
+        "fontFamily": "Inter",
+        "pageBackground": "",
+        "tokens": {},
+        "customTokens": {}
+      }
+    },
+    "nestedPath": "theme"
+  },
+  "_doc": {
+    "projectName": "zev",
+    "template": {
+      "name": "",
+      "version": "1.0.0",
+      "layoutMode": "legacy"
+    },
+    "theme": {
+      "primaryColor": "#0070f3",
+      "secondaryColor": "#7928ca",
+      "darkMode": false,
+      "fontFamily": "Inter",
+      "pageBackground": "",
+      "tokens": {},
+      "customTokens": {}
+    },
+    "responsive": {
+      "breakpoints": {
+        "mobile": 375,
+        "tablet": 768,
+        "desktop": 1440
+      },
+      "pages": []
+    },
+    "_id": "69f05132c7f9ef3c8e600cac",
+    "pages": [],
+    "createdAt": "2026-04-28T06:18:26.231Z",
+    "updatedAt": "2026-04-28T06:18:26.236Z",
+    "__v": 0
+  },
+  "$isNew": false,
+  "projectName": "zev",
+  "theme": {
+    "primaryColor": "#0070f3",
+    "secondaryColor": "#7928ca",
+    "darkMode": false,
+    "fontFamily": "Inter",
+    "pageBackground": "",
+    "tokens": {},
+    "customTokens": {}
+  },
+  "pages": [
+    {
+      "route": "/",
+      "title": "Home",
+      "description": "zev home page",
+      "components": []
+    }
+  ]
+}
